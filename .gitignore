@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+
+snaityyoutube/node_modules
+
 # testing
 /coverage
 
