@@ -132,7 +132,7 @@ function Post({ post }: Props) {
             <input
               {...register("email", { required: true })}
               className="shadow border rounded py-2 px-3 form-input mt-1 block w-full ring-yellow-500 outline-none focus:ring"
-              placeholder="abc@gmail.com"
+              placeholder="ABD@gmail.com"
               type="email"
             />
           </label>
